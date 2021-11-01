@@ -5,4 +5,4 @@
 - 💦 I'm currently improving my project,so if you like it,please give me star
 - 💬 If you have any questions, you can contact me by email kevinclair@apache.org
 
-![](https://github-readme-stats.vercel.app/api?username=KevinClair&count_private=true&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=KevinClair&count_private=true&show_icons=true)
