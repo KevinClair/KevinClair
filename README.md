@@ -6,3 +6,4 @@
 - 💬 If you have any questions, you can contact me by email kevinclair@apache.org
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinClair&count_private=true&show_icons=true)
+![](https://www.githubtrends.io/wrapped/KevinClair)
