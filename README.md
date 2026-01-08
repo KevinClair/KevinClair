@@ -12,3 +12,5 @@
 - 更多岗位可以通过邮件联系我，期待你的加入。
 
 ![](https://github-readme-stats.vercel.app/api?username=KevinClair&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinClair&layout=compact)
+
