@@ -14,5 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=KevinClair&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinClair&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinClair)](https://github.com/anuraghazra/github-readme-stats)
-
