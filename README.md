@@ -6,7 +6,7 @@
 
 
 ### We are hiring!!! 
-- 我们是饿了么中间件团队，负责饿了么中间件开发以及稳定性建设。
+- 我们是淘宝闪购中间件团队，负责淘宝闪购中间件开发以及稳定性建设。
 - [数据库访问层开发专家](https://talent.ele.me/off-campus/position-detail?lang=zh&positionId=100000169007)
 - [云原生开发专家](https://talent.ele.me/off-campus/position-detail?lang=zh&positionId=5000025106)
 - 更多岗位可以通过邮件联系我，期待你的加入。
